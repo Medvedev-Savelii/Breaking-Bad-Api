@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad-Api/static/css/main.a522cdeb.css",
+    "main.js": "/Breaking-Bad-Api/static/js/main.cb4e0860.js",
+    "static/media/spinner.gif": "/Breaking-Bad-Api/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/Breaking-Bad-Api/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/Breaking-Bad-Api/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/Breaking-Bad-Api/index.html",
+    "main.a522cdeb.css.map": "/Breaking-Bad-Api/static/css/main.a522cdeb.css.map",
+    "main.cb4e0860.js.map": "/Breaking-Bad-Api/static/js/main.cb4e0860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a522cdeb.css",
+    "static/js/main.cb4e0860.js"
+  ]
+}
